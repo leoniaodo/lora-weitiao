@@ -1,1 +1,2 @@
 # lora-weitiao
+在unsloth平台上微调DeepSeek-R1-Distill-Llama-8B模型，通过提示词prompt提示模型是一位医学大师，数据集从huggingface上导入，通过训练出来的微调模型，压缩上传huggingface,再从huggingface上面通过ollama运行微调后的模型，如果你觉得，效果不好可以改参数，或者更换数据集。
